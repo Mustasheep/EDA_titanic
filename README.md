@@ -24,10 +24,6 @@
     *   Investigar se a idade influencia na taxa de sobrevivência.
     *   Investigar se o porto de embarque influencia na taxa de sobrevivência.
     *   Utilizar gráficos para ilustrar as descobertas.
-6.  **Conclusões:**
-    *   Resumir as principais descobertas e insights sobre o dataset.
-    *   Identificar quais variáveis parecem estar mais relacionadas à sobrevivência.
-    *   Listar quais perguntas adicionais você gostaria de investigar com este dataset.
 
 ## Conclusão
 
