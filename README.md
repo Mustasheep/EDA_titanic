@@ -27,8 +27,28 @@
 
 ## Conclusão
 
-Pude responder e chegar às seguintes conclusões:
-- Houveram diversos sobreviventes, cerca de `37%` dos passageiros, sendo todos do gênero feminino (desde bebês até idosas).
-- A maior parte dos passageiros são de `Southampton`.
-- Nenhum passageiro de `Queenstown` adquiriu uma cabine de 1ª Classe, talvez pela cidade possuir habitantes de classe inferior naquela época.
-- Não houveram homens sobreviventes, provavelmente por dar prioridade e salvar vidas de bebês, crianças, mulheres e idosos.
+**Análise Descritiva:**
+
+*   **Idades:** Havia uma ampla faixa etária entre os passageiros, desde bebês até idosos de 76 anos.
+*   **Tarifas:** Os valores das tarifas pagas pelos passageiros variavam bastante, com um intervalo considerável entre os menores e maiores valores.
+*   **Sobrevivência:** A taxa de sobrevivência média foi de aproximadamente 36%.
+*   **Classes:** Havia uma quantidade maior de passageiros da 3ª classe em comparação com as outras classes.
+
+**Visualização de Dados:**
+
+*   **Relação Classe e Tarifa:** A tarifa parece estar fortemente relacionada à classe da cabine, com passageiros da 1ª classe pagando as tarifas mais altas.
+*   **Gênero e Tarifa:** A relação entre gênero e tarifa não parece ser tão forte quanto a relação entre classe e tarifa.
+*   **Embarque e Tarifa:** Os passageiros de Cherbourg tendiam a pagar mais caro que os de Southampton e Queenstown.
+*   **Distribuição de Idade por Gênero:** Observa-se que a mediana de idade dos homens é ligeiramente superior à das mulheres, e que há uma concentração maior de homens entre os 20 e 40 anos. No geral, a faixa etária de ambos é bem similar.
+
+**Sobrevivência:**
+
+*   **Sobrevivência por Classe:** A taxa de sobrevivência foi maior para os passageiros da 1ª classe, seguido pelos da 2ª e 3ª classes.
+*   **Sobrevivência por Gênero:** As mulheres tiveram uma taxa de sobrevivência superior aos homens.
+*   **Sobrevivência por Faixa Etária:** Os dados sugerem que as faixas etárias de bebês (0-10) e idosos (70-80) apresentaram taxas de sobrevivência mais elevadas, o que pode indicar um esforço para priorizar essas faixas na hora do resgate.
+
+**Implicações:**
+
+*   **Classe Social:** A classe social teve uma influência significativa tanto no custo da passagem como nas chances de sobrevivência.
+*   **Gênero:** A priorização de mulheres e crianças no resgate pode ser evidente, dado que nenhuma sobrevivência masculina foi observada no dataset.
+*   **Porto de Embarque:** As pessoas que embarcaram em Queenstown quase não adquiriram assentos na 1ª classe, provavelmente pela classe social da população daquela cidade à época.
